@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bài thực hành Windows Form - Buổi 3", "Bài thực hành Windows Form - Buổi 3\Bài thực hành Windows Form - Buổi 3.csproj", "{114D39AF-E02D-4252-8457-7DB3B2393804}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai 2", "bai 2\bai 2.csproj", "{042CB8CF-2FEB-4A49-BC45-306C3605FCD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{114D39AF-E02D-4252-8457-7DB3B2393804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114D39AF-E02D-4252-8457-7DB3B2393804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114D39AF-E02D-4252-8457-7DB3B2393804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114D39AF-E02D-4252-8457-7DB3B2393804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042CB8CF-2FEB-4A49-BC45-306C3605FCD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042CB8CF-2FEB-4A49-BC45-306C3605FCD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042CB8CF-2FEB-4A49-BC45-306C3605FCD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042CB8CF-2FEB-4A49-BC45-306C3605FCD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D15FCECB-6F65-4BCE-B037-0788479CD95C}
+	EndGlobalSection
+EndGlobal
